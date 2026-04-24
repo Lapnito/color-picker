@@ -10,15 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.tomas.color_picker">
-    <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Download on Google Play">
-  </a>
-  <a href="https://apps.apple.com/us/app/color-picker-camera-hex-rgb/id6759371237">
-    <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store">
-  </a>
-  <a href="https://lapnito.cz/color-picker">
-    <img src="https://img.shields.io/badge/Website-lapnito.cz-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.tomas.color_picker"><img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Download on Google Play"></a>
+  <a href="https://apps.apple.com/us/app/color-picker-camera-hex-rgb/id6759371237"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store"></a>
 </p>
 
 <p align="center">
@@ -27,6 +20,29 @@
   <img src="https://img.shields.io/badge/License-Proprietary-blue" alt="License">
   <img src="https://img.shields.io/badge/Camera-Live%20Color%20Detection-orange" alt="Camera Color Detection">
   <img src="https://img.shields.io/badge/Developer-lapnito.cz%20s.r.o.-blueviolet" alt="Developer">
+</p>
+
+<p align="center">
+  <b>Read in other languages:</b>
+  <a href="README.es.md">Español</a> ·
+  <a href="README.pt-BR.md">Português (BR)</a> ·
+  <a href="README.de.md">Deutsch</a> ·
+  <a href="README.fr.md">Français</a> ·
+  <a href="README.it.md">Italiano</a> ·
+  <a href="README.nl.md">Nederlands</a> ·
+  <a href="README.pl.md">Polski</a> ·
+  <a href="README.cs.md">Čeština</a> ·
+  <a href="README.uk.md">Українська</a> ·
+  <a href="README.ru.md">Русский</a> ·
+  <a href="README.tr.md">Türkçe</a> ·
+  <a href="README.ar.md">العربية</a> ·
+  <a href="README.hi.md">हिन्दी</a> ·
+  <a href="README.zh-CN.md">中文</a> ·
+  <a href="README.ja.md">日本語</a> ·
+  <a href="README.ko.md">한국어</a> ·
+  <a href="README.id.md">Bahasa Indonesia</a> ·
+  <a href="README.vi.md">Tiếng Việt</a> ·
+  <a href="README.th.md">ภาษาไทย</a>
 </p>
 
 ---
@@ -94,12 +110,8 @@ All color processing is performed locally on your device using the camera hardwa
 ## Download
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.tomas.color_picker">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="220">
-  </a>
-  <a href="https://apps.apple.com/us/app/color-picker-camera-hex-rgb/id6759371237">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="190">
-  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.tomas.color_picker"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="220"></a>
+  <a href="https://apps.apple.com/us/app/color-picker-camera-hex-rgb/id6759371237"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="190"></a>
 </p>
 
 | Platform | App Name | Link |
@@ -107,7 +119,6 @@ All color processing is performed locally on your device using the camera hardwa
 | **Android** | Color Picker: Camera HEX RGB | [Google Play](https://play.google.com/store/apps/details?id=com.tomas.color_picker) |
 | **iOS** | Color Picker Camera: HEX RGB | [App Store](https://apps.apple.com/us/app/color-picker-camera-hex-rgb/id6759371237) |
 
-**Website:** [lapnito.cz/color-picker](https://lapnito.cz/color-picker)
 **Support:** [lapnito.cz/color-picker/support.html](https://lapnito.cz/color-picker/support.html)
 
 ## FAQ
@@ -147,13 +158,12 @@ A: Both versions offer the same core functionality. The Android version is calle
 - **Android:** Min SDK Android 5.0 (API 21)
 - **iOS:** Min iOS 13.0, also compatible with iPadOS, macOS (Apple Silicon), and visionOS
 - **Export formats:** JSON, CSS variables, plain text, PNG
+- **Languages:** English, Español, Português, Deutsch, Français, Italiano, Nederlands, Polski, Čeština, Українська, Русский, Türkçe, العربية, हिन्दी, 中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, ภาษาไทย
 
 ## About the Developer
 
 Built by **[lapnito.cz s.r.o.](https://lapnito.cz)** (Lapnito Development Studio), an indie development studio based in the Czech Republic.
 
-- **Website:** [lapnito.cz](https://lapnito.cz)
-- **App page:** [lapnito.cz/color-picker](https://lapnito.cz/color-picker)
 - **Support:** [lapnito.cz/color-picker/support.html](https://lapnito.cz/color-picker/support.html)
 - **Email:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **More apps:** [Google Play](https://play.google.com/store/apps/developer?id=lapnito+development+studio) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
